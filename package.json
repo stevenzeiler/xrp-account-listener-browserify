@@ -1,0 +1,19 @@
+{
+  "name": "xrp-account-listener-browserify",
+  "version": "1.0.0",
+  "description": "Listen to XRP balance changes on on account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenzeiler/xrp-account-listener-browserify"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenzeiler/xrp-account-listener-browserify/issues"
+  },
+  "homepage": "https://github.com/stevenzeiler/xrp-account-listener-browserify"
+}
