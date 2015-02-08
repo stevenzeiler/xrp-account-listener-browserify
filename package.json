@@ -1,6 +1,6 @@
 {
   "name": "xrp-account-listener-browserify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Listen to XRP balance changes on on account",
   "main": "index.js",
   "scripts": {

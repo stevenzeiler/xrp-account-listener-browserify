@@ -4,6 +4,7 @@ Subscribe to changes to XRP balances of a Ripple account
 
 ## Usage
 
+````
 var XRPAccount = require('xrp-account-listener-browserify')
 
 new XRPAccount({
@@ -14,4 +15,5 @@ new XRPAccount({
   }
 })
 .subscribe()
+````
 
