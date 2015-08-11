@@ -2,7 +2,7 @@
   "name": "xrp-account-listener-browserify",
   "version": "1.0.1",
   "description": "Listen to XRP balance changes on on account",
-  "main": "index.js",
+  "main": "src/xrp_account.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
